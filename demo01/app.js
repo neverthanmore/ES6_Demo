@@ -6,7 +6,7 @@
 	var b = 'xiaomai';
 }
 
-// console.log(a); //a is not defined
+console.log(a); //a is not defined
 console.log(b); // 'xiaomai'
 
 //循环中使用let非常合适
