@@ -49,3 +49,5 @@ var constFreeze = (obj) => {
 		}
 	})
 }
+
+let aaa = {}
